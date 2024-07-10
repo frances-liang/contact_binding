@@ -1,0 +1,11 @@
+name: contact_binding
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - biopython
+  - numpy
+  - pandas
+  - tkinter
+  - pip:
+    - BioPython
